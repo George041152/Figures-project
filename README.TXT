@@ -34,6 +34,8 @@ It illustrates a number of concepts:
 
 The project also demonstrates
 
+
+
  - BlueJ object creation
  - interactive method invocation
  - parameter passing
