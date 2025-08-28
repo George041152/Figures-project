@@ -8,6 +8,8 @@ import java.awt.geom.*;
  * @version 7.0
  */
 
+
+
 public class Circle
 {
     private int diameter;
