@@ -59,4 +59,6 @@ the roof. Then moved the sun to the right and in the sky. It is faily simple
 so there is probably only 1 or 2 ways to do it but i think the way i did it
 was the most efficent.
 
+Question#14: It is drawn with the code it is given.
+
 Question#:
